@@ -12,7 +12,9 @@
 ---
 
 ### 👨‍🏫 Lecturer  
-**Dr. Noorfa Haszlinna binti Mustaffa** *Faculty of Computing* Universiti Teknologi Malaysia (UTM)
+**Dr. Noorfa Haszlinna binti Mustaffa** 
+*Faculty of Computing* 
+Universiti Teknologi Malaysia (UTM)
 
 ---
 
