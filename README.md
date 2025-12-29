@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Venn_diagram_for_A_union_B.svg/1200px-Venn_diagram_for_A_union_B.svg.png" alt="Discrete Math Logo" width="130"/>
+  <img src="https://www.creativefabrica.com/wp-content/uploads/2021/06/07/Discrete-Math-Icon-Graphics-13053108-1.jpg" alt="Discrete Math Logo" width="130"/>
 </p>
 
 <h1 align="center">SECI1013 — Discrete Structure</h1>
