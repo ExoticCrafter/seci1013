@@ -30,3 +30,19 @@ This repository serves as a personal archive for assignments, quizzes, tutorials
 - Counting Methods and Probability  
 - Graph Theory  
 - Finite Automata
+
+---
+
+## 💭 Reflection
+
+### 💡 What I Gained
+This course provided the essential mathematical bedrock for my **Data Engineering** degree. Unlike calculus, which deals with continuous data, learning **Discrete Structure** sharpened my ability to think in terms of discrete logic and rigorous proofs. I developed a strong grasp of:
+* **Set Theory & Logic:** Fundamental for understanding database queries and boolean logic.
+* **Graph Theory:** Crucial for visualizing complex data relationships and network structures.
+* **Counting Methods:** Essential for analyzing algorithm complexity and probability.
+
+### 📈 Areas for Improvement
+While I improved my ability to solve mathematical proofs manually, I realized I need to bridge the gap between *theory* and *code*. Moving forward, I plan to implement these mathematical models (specifically **Finite Automata** and **Graph Algorithms**) directly in programming languages like C++ or Python to better understand their practical application in software development.
+
+### 📝 Final Thoughts
+**Discrete Structure (SECI1013)** shifted my perspective from viewing computer science as just "coding" to understanding it as "applied mathematics." Under the guidance of **Dr. Noorfa Haszlinna**, I built a mental toolkit that allows me to approach problems with logical precision rather than just trial and error. This course is undeniably the foundation upon which my future Data Engineering expertise will be built.
